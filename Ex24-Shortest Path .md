@@ -12,7 +12,7 @@ The number of reachable attractions from the same starting point using Breadth-F
 3. Read the walking paths (edges) connecting attractions.
 4. Use BFS to find:
 
-   Shortest path (minimum hops) from start node to destination node using a distance array.
+   Shortest path (minimum hops) from start node to destination node using a distance array..
 
    Reachability count, i.e., number of attractions reachable from the start.
 
